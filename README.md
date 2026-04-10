@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# DZ-TDPO: Non-Destructive Temporal Alignment for Mutable State Tracking in Long-Context Dialogue
+# DZ-TiDPO: Non-Destructive Temporal Alignment for Mutable State Tracking in Long-Context Dialogue
 
 <a href="DZ-TDPO.pdf"><img src="https://img.shields.io/badge/Paper-PDF_Available-b31b1b?style=for-the-badge&logo=adobeacrobatreader" alt="Paper PDF"></a>
 <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-Thread-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
